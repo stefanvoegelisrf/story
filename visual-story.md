@@ -6,3 +6,4 @@ Take one of these images and draw a short story
 ![Flip-flops chained to a fence](images/what_happened02.PNG)
 
 ## Result
+![Visual story with toast](images/visual-story.png)
