@@ -1,0 +1,17 @@
+# Analysis: Fight club
+- Beginning of the movie
+  - The beginning of the movie subtly gives an introduction that the main character has a desire to escape his own life and is struggling with personal issues. This is some kind of foreshadowing to give a view inside the life of the main character that could lead to the actions that follow in the movie.
+- Dramaturgy of the movie
+  - Introduction to the end of the movie
+  - Self help groups solving sleeping problems
+  - Woman dirupts his happiness
+  - Begins to get schizophrenic
+  - Builds up empire
+  - Realizes that this is not what he wants
+  - Tries to avoid what his alter ego has built up
+  - Kills alter ego
+  - Watches buildings collapse
+- Backstory of the main figure
+  - Sleeping disorders
+- Psychology of the main figure
+  - Internal conflicts
