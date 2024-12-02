@@ -1,0 +1,33 @@
+# Excercise: Snowflaking writing technique
+- Write a wish for the future of the world
+  - I wish for the world to have less toxic behavior. People should communicate more directly, what and how they feel. They should not try to manipulate the people they talk to.
+- Project into this future and think about a story
+  - People are less sad or angry, they are able to better talk about their feelings. They care more about each other and are better able to see the viewpoint of others.
+  - Media is much more transparent with their communication and has a clear label what their agenda is and what their viewpoints are.
+- Write this story in a short sentence without using countries or names
+  - The story is about a community that has a very active feedback culture and a communication guide that people are trained on. It is very easy to learn, but takes some getting used to. Once established, their communication is changed for the better. This community tries to slowly but surely spread their techniques into the world. They do not get on with everyone well, but they arrive at some cities where they can teach some people on their methods. In other cities, they are believed to be a cult.
+- Write a beginning sentence
+  - They got into an argument again and Henry was seemingly angry.
+- Write a middle part sentence
+  - Henry could deliver his message but the people in the room did not want to listen
+- Write an end sentence
+  - It was the last meeting for this week and they could not believe that they could let their emtions go and have such good reflection about them.
+- Write a sentence about the main character
+  - The main character has a past of toxic relationships where he has been in and also developed some toxic behavior. He however tries to get rid of them by trying to change his thinking and his actions by actively talking about what concerns him to other and trying to communicate as much as possible of his feelings.
+- Describe in 3 sentences, how does the world feel, how does it smell and taste
+  - The world smells of flowers and fields. It is a world with a wide variety of colors that represent different viewpoints. Tastes are very diverse
+- Describe the opposity of the world in 3 sentences
+  - This world is full of people that try to manipulate your emotions, your actions and on how to trick the world. It smells foul and has a bitter taste. Everything is not what is seems to be and there is no trust.
+- Write a sentence for the beginning of the opposite story
+  - They got into an argument again and Henry was seemingly angry.
+- Write a sentence for a middle part of the opposite story
+  - Henry slapped him hard as he was shocked by his harsh words.
+- Write a sentence for the end of the opposite story
+  - His hands were bloody, but he did not want him to die yet.
+- Back to the original story
+  - Write a beginning
+    - Henry held his knife in his hand and looked at the blood that was dripping from it. He could not believe what he just has done.
+  - Write a middle part
+    - Henry was delighted at how he could listen to his body and what to read from it.
+  - Write an ending
+    - Henry finally admitted his wrongful past and was now able to get into his new future.
