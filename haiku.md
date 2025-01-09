@@ -1,11 +1,9 @@
 # Excercise: Haiku
-Create a Haiku with a video
+
+Create a Haiku
 
 ## Result
 
-### Haiku
 Dirty fingers of
 a pirate develop by
 digging down deep holes
-
-### Video
