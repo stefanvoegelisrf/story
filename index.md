@@ -9,7 +9,7 @@
 - [Fight club](fight-club)
 - [Stealing the beginning of a story](story-stealing)
 - [Visual story](visual-story)
-- [Interactive comics & games](interactive-comics-games)
+- [Interactive games & comics](interactive-games-comics)
 - [Autobiography](autobiography)
 - [Persona creation](persona-creation)
 - [Snowflaking](snowflaking)
