@@ -17,3 +17,5 @@
 
 # Main excercise
 - Comic or Game concept about "a world we want to live in"
+
+> [Story](story)
